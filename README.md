@@ -10,6 +10,6 @@ University course projects based on the creation of C++ Libraries by implementin
 ###[SPECS](Phase 2 - Red Black Tree/S21 Phase 2.pdf)
 
 ## Phase 3 - Binary Heap
-###[SPECS](Phase 3 - Binary Heap/S21 Phase 3.pdf)
+###[SPECS](https://github.com/obibruno/Data-Structure-Library/blob/main/Phase%203%20-%20Binary%20Heap/S21%20Phase%203.pdf)
 
 
