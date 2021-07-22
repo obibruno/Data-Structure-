@@ -4,12 +4,12 @@ University course projects based on the creation of C++ Libraries by implementin
 
 ## Phase 1 - Circular Dynamic Array
 
-###(Phase 1 - Circular Dynamic Array/S21_Phase_1.pdf)
+###[SPECS](Phase 1 - Circular Dynamic Array/S21_Phase_1.pdf)
 
 ## Phase 2 - Red Black Tree
-### (Phase 2 - Red Black Tree/S21 Phase 2.pdf)
+###[SPECS](Phase 2 - Red Black Tree/S21 Phase 2.pdf)
 
 ## Phase 3 - Binary Heap
-### Phase 3 - Binary Heap/S21 Phase 3.pdf
+###[SPECS](Phase 3 - Binary Heap/S21 Phase 3.pdf)
 
 
