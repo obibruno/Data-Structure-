@@ -1,6 +1,6 @@
 # Data-Structure-Library
 
-University course projects based on the creation of C++ Libraries by implementing Data Structures and algorithms learned in class. 
+University course projects based on the creation of C++ Libraries by implementing data structures and algorithms learned in class. 
 
 ## Phase 1 - Circular Dynamic Array
 
